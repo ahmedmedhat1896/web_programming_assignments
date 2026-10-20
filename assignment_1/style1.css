@@ -1,0 +1,43 @@
+header {
+   padding: 250px;
+
+    background-image:
+        linear-gradient(rgba(0, 0, 0, 0.3), rgba(0, 0, 0, 0.3)),
+        url("headphoto.webp");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: top;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+h1 {
+    font-family: "Roboto Slab", serif;
+    font-size: 36px;
+    font-weight: normal;
+    color: white;
+    text-align: center;
+    max-width: 650px;
+}
+.profile img {
+    width: 100px;
+    border-radius: 100%;
+    border: 1px solid white;
+    text-align: center;
+    margin-top: -50px;
+    margin-left: 45%;
+    
+}
+.profile p {
+    font-family: "Source Sans Pro", sans-serif;
+    font-size: 18px;
+    color: rgb(51, 51, 51);
+    line-height: 24px;
+    text-align: center;
+    justify-content: center;
+    padding-top: 5px;
+
+    border-bottom: 2px solid #e6e6e6;
+    width: 20%;
+    margin-left: 40%;
+}
