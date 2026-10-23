@@ -1,0 +1,63 @@
+body{
+    margin-top: 30px ;
+    background-color: lightgrey;
+    display: flex ;
+    flex-direction: column ;
+    text-align: center;
+    justify-content: center;
+    
+}
+.profile h1 {
+    margin-bottom: -1px;
+}
+.profile{
+    background-color: white;
+    border-radius: 10px;
+    text-align: center;
+    justify-content: center;
+    padding-bottom: 20px;
+    margin-bottom: 30px;
+}
+nav {
+    border-radius: 10px;
+    background-color: lightblue;
+    display: flex ;
+    flex-direction: column ;
+    justify-content: center;
+    text-align: center;
+    border: solid 2px blue;
+
+}
+.box1{
+    border-radius: 10px ;
+    border: solid 2px blue;
+    background-color: white;
+    margin-top: 10px ;
+    margin-right: 10px ;
+    margin-left: 10px ;
+}
+.box2{
+    border-radius: 10px ;
+    border: solid 1px blue;
+    background-color: white;
+    margin-right: 10px ;
+    margin-left: 10px ;
+}
+.box3{
+    border-radius: 10px ;
+    border: solid 1px blue;
+    background-color: white;
+    margin-right: 10px ;
+    margin-left: 10px ;
+}
+.box4{
+    border-radius: 10px ;
+    border: solid 1px blue;
+    background-color: white;
+    margin-right: 10px ;
+    margin-left: 10px ;
+    margin-bottom: 10px ;
+}
+
+
+
