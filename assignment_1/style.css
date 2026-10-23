@@ -24,5 +24,5 @@ div span + span {
     color: #FF00FF;
 }
 div span + span + span {
-    color: #FFA500;
+    color: rgb(255, 165, 0);
 }
