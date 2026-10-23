@@ -1,0 +1,28 @@
+body{
+    background-color: cyan;
+}
+div h2 {
+display: inline;
+}
+header h1 {
+    color: blue;
+    text-align: center;
+    padding-bottom: 20px;
+        border-bottom: solid 2px gray;
+}
+header h2 {
+    
+    color: black;
+    text-align: center;
+    padding-bottom: 20px;
+}
+div span {
+    color: silver;
+
+}
+div span + span {
+    color: #FF00FF;
+}
+div span + span + span {
+    color: #FFA500;
+}
